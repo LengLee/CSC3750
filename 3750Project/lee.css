@@ -1,0 +1,306 @@
+
+	body{ 
+	 background-color:#43C6DB;
+	 padding-left:20px;
+     padding-right:20px;
+     display:block;
+	}
+	
+	main{
+	font-family : Ariel; 
+	color : #000000; 
+	margin-left:170px; 
+     padding-top: 1px; 
+     padding-bottom: 1px;
+	 
+	}
+
+    h1{background-color:#43C6DB; 
+   color: #000000;
+   font-family:Georgia;
+   line-height:200%;
+   padding-left: 10px;
+   height:72px;
+   margin-bottom:0;
+   text-align:center;
+   background-image: url(csclogo.png);
+   background-position: right;
+   background-repeat: no-repeat;}
+   
+	h2{
+		font-family : Ariel; 
+		color : #000000;
+		font-style : italic; 
+		text-align:center; 
+	}
+	
+	h3{
+		font-family : Ariel; 
+		color : #000000;
+		font-style : italic; 
+		text-align:center; 
+	}
+	
+	#wrapper{
+	 margin-right:auto;
+	 width:85%;
+	 background-color:#C0C0C0; 
+	 min-width:700px;
+	 max-width:1024px;
+     box-shadow:3px 3px 3px #333;
+	 padding-top:100px; 
+	 padding-bottom:100px;
+	 padding-left:50px;
+	 }
+	
+	
+	nav{ float: left; 
+    width: 150px;  
+    padding-left:20px;
+    padding-top:20px; 
+	padding-bottom:10px;
+	padding-right:10px; 
+}
+	
+	
+	
+	nav ul{
+		margin:0;	
+		margin-left:0; 
+		list-style-type:none; 
+		
+	}
+
+	aside{
+		float:right; 
+		width:200px;
+    padding-left:20px;
+    padding-top:20px; 
+	padding-bottom:10px;
+	padding-right:10px; 		
+	}
+	
+	aside ul{
+		list-style-type:none; 
+	}
+
+	* {box-sizing: border-box;}
+	
+	
+	
+	header,nav,main,footer{display:block;}
+	
+	.left{ 
+		color : #000000;
+		text-align: left;
+		margin-left:0; 
+		list-style-type:none; 
+	}
+	
+	#crain{background-image: url(crain.png);
+	  background-repeat: no-repeat;
+	  height:100px;
+	  padding-bottom:150px;
+	  padding-top:0px;
+      margin-left:0px;}
+	  
+	#ups{background-image: url(ups.jpg);
+	  background-repeat: no-repeat;
+	  height:200px;
+      margin-left:0px;
+	  }
+	  
+	  #wayne{
+		  background-image:url(wayne.png);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:150px;
+		padding-top:0px;
+		margin-left:0px;
+	  }
+	  
+	  #wwt{
+		  	  background-image:url(wwt.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }
+	  	  #wrestling{
+		  	  background-image:url(wrestling1.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }
+	  #wrestling2{
+		  	  background-image:url(wrestling2.png);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	  
+	  #hunting2{
+		  	  background-image:url(hunting2.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	 
+	  #hunting{
+		  	  background-image:url(hunting.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	  
+	  #fishing1{
+		  	  background-image:url(fishing1.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:300px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+		
+	  }	  
+	  #fishing2{
+		  	  background-image:url(fishing2.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:300px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	  
+	  #fishing3{
+		  	  background-image:url(fishing3.png);
+		  background-repeat:no-repeat; 
+		  height:300px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	  
+	  #fishing4{
+		  	  background-image:url(fishing4.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:200px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }	  
+	  #soccer{
+		  	  background-image:url(soccer.jpg);
+		  background-repeat:no-repeat; 
+		  	  height:100px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+	  }
+	  
+	  #pic{
+		   background-image:url(family.jpg);
+		  background-repeat:no-repeat; 
+		text-align:center; 
+		  height:400px;
+		padding-bottom:200px;
+		padding-top:0px;
+		margin-left:0px;
+		margin-left:auto;
+		margin-right:auto;
+	  }
+	  
+	  #center{
+		  text-align:center; 
+	  }
+	  
+	
+	
+	footer{
+		text-align:center; 
+		color:#000000; 
+		font-size: .70em;
+       font-style: italic;
+	}
+	
+	table{
+ 
+border: 1px #3399CC; 
+width: 90%;
+border-collapse: collapse;}
+
+td, th {
+padding: 5px; 
+border: 1px solid #3399cc; }
+
+td{ text-align: center;}
+
+td.text{text-align: left;}
+
+tr:nth-of-type(even){background-color: #FFFFFF;}
+tr:nth-of-type(odd){background-color:#ADDFFF}
+
+#mobile { display:none;}
+#desktop {display:inline; }
+
+@media only screen and (max-width: 1024px){ 
+body{ margin:0; 
+padding : 0; 
+background-image:none; } 
+
+#wrapper{ width:auto; 
+min-width:0; 
+margin:0; 
+box-shadow: 0px 0px 0px; }
+h1{ margin:0; }
+
+nav{ float:none; 
+width:auto; 
+padding:0.5em;}
+
+nav li{ display:inline-block;}
+
+nav a {padding:1em;}
+
+main{padding: 1em; 
+margin-left:0; 
+font-size:90%; }
+
+footer{ margin:0; }
+}
+ 
+@media only all and (max-width: 768px){
+
+h1{height:100%;
+font-size:1.5em; 
+padding-left:0.3em; }
+
+nav{ padding:0;}
+
+nav a{ display:block; 
+padding: 0.2em; 
+font-size:1.3em; 
+border-bottom: 1px; 
+border-color: #330000; }
+
+nav ul{ margin:0;
+padding:0;}
+
+nav li{display:block; 
+margin:0;
+padding:0; }
+
+main{ padding-top: 0.1em; 
+padding-right: 0.6em;
+padding-bottom: 0.1em; 
+padding-left:0.4em; } 
+
+footer{padding:0;}
+
+#mobile{display:inline;}
+#desktop{display:none;} 
+
+}

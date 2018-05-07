@@ -1,0 +1,15 @@
+2.29 ) The solution would work for the consumer/producer problem but only if there are not multiple consumers and producers because the producer can only work on the buffer when its empty, and the consumer can only work on it when its full. Therefore if there are multiple consumers and producers it wouldn't work. 
+
+2.30) This violates rule three because P1 is blocking P0 from entering its critical section. 
+
+2.31) It could do this in a couple of ways: by issuing the command Disable interrupt, waking up a blocked process and removing it, and then enable the interrupt. 
+
+3.7) a) 8212 
+     b) 4100 
+     c) 24684
+
+3.13) (k+n)/k 
+
+3.16) 601.98ns 
+
+3.29) Second chance will remove the first page with bit 0. 
